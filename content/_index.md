@@ -1,7 +1,7 @@
 ---
 title: home
 banner:
-  title: Bienvenue sur la Scénariothèqe
+  title: Bienvenue sur la Scénariothèque
   subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
   actions:
   - label: Learn More
